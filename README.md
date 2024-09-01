@@ -1,3 +1,6 @@
+# 个人课程项目
+实施了区块链定义`block_chain.py`, 并构造了一个简单的小型网络（加密、发送、接收）来测试网络中某些节点离线后的现象，验证了区块链问题中达成共识问题的条件。具体演示请运行 `demonstration.py`
+
 ## Requirements
 
 Lap top OS
